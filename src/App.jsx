@@ -78,7 +78,7 @@ const gallery = [
   },
 ];
 
-const WHATSAPP_NUMBER = "919553155403";
+const WHATSAPP_NUMBER = "918639461800";
 
 function App() {
   const [menuOpen, setMenuOpen] = useState(false);
